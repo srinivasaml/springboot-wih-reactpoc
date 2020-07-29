@@ -152,10 +152,8 @@ Other URLS
 
 ### Useful Links
 
-- [Our Website](http://www.in28minutes.com)
-- [Facebook](http://facebook.com/in28minutes)
-- [Twitter](http://twitter.com/in28minutes)
-- [Google Plus](https://plus.google.com/u/3/110861829188024231119)
+- [in28minutes](http://www.in28minutes.com)
+- [github](https://github.com/in28minutes/full-stack-with-react-and-spring-boot)
 
 ## Connection to MySQL
 
